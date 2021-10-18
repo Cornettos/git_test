@@ -1,0 +1,1 @@
+This is Cornettos's first git project
